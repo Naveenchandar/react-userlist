@@ -10,7 +10,7 @@ Userlist is used to display list of users with recent activity informations.
 5. Deploy on github-pages using `npm run deploy` command.
 
 ```bash
-git clone <url>
+git clone <https://github.com/Naveenchandar/react-userlist.git>
 ```
 
 ## Contributing
