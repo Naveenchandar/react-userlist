@@ -12,6 +12,8 @@ Userlist is used to display list of users with recent activity informations.
 ```bash
 git clone <https://github.com/Naveenchandar/react-userlist.git>
 ```
+<img src="https://user-images.githubusercontent.com/37447901/108672033-65519b80-7507-11eb-8c89-d22d14cca881.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/37447901/108672050-6aaee600-7507-11eb-8279-6304035c07fc.png" width="15%"></img> 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
